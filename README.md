@@ -9,6 +9,7 @@ Hi there! I'm Miraj Chathuranga, a passionate Computer Science undergraduate stu
 
 ### Contact Me
 I'm always excited to connect with fellow developers and discuss interesting ideas. You can reach me via:
-Email: miirajmanage@gmail.com
+# Email: miirajmanage@gmail.com
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirajChathuranga)](https://github.com/anuraghazra/github-readme-stats)
