@@ -1,6 +1,7 @@
-### Hi there! I'm Miraj Chathuranga, a passionate Computer Science undergraduate student with a love for coding and problem-solving.
+Hi there! I'm Miraj Chathuranga, a passionate Computer Science undergraduate student with a love for coding and problem-solving.
 
 About Me
+
 🎓 I'm currently pursuing my Bachelor's degree in Computer Science.
 💻 My main areas of interest are algorithms, data structures, web development, and machine learning.
 🌱 I'm constantly learning and exploring new technologies to enhance my skills.
